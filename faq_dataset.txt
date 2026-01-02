@@ -1,0 +1,274 @@
+question|answer|intent|category
+When was UET Taxila established?|UET Taxila was established in 1975 as an engineering college and later upgraded to university status.|university_history|History
+Who was the first vice chancellor of UET Taxila?|Prof. Dr. Muhammad Aslam was the first vice chancellor.|university_history|History
+How has UET Taxila developed over the years?|UET Taxila has expanded from a single engineering department to multiple faculties including Electrical, Mechanical, Civil, and Computer Engineering.|university_development|Development
+What are the major milestones of UET Taxila?|Key milestones include upgrading to a university, launching graduate programs, international collaborations, and research centers.|university_development|Development
+Where is UET Taxila located?|It is located in Taxila, Punjab, Pakistan, near the historic Taxila ruins.|location_info|History
+What is the vision of UET Taxila?|To become a leading engineering university recognized for education, research, and innovation.|mission_vision|Development
+What is the mission of UET Taxila?|To provide high-quality education and research opportunities in engineering and technology.|mission_vision|Development
+How many campuses does UET Taxila have?|The main campus is in Taxila; other affiliated campuses exist for specialized programs.|campus_info|Development
+What are the core values of UET Taxila?|Integrity, Innovation, Excellence, and Professionalism.|university_values|Development
+How many faculties exist at UET Taxila?|UET Taxila has faculties in Electrical, Mechanical, Civil, Software, and Basic Sciences.|faculties_info|Departments
+Does UET Taxila collaborate internationally?|Yes, collaborations with universities in USA, UK, and China exist for research and exchange programs.|international_collaboration|Development
+Is UET Taxila recognized by HEC?|Yes, it is recognized by the Higher Education Commission of Pakistan.|accreditation|Development
+Who governs UET Taxila?|The Chancellor is the Governor of Punjab, and the Vice Chancellor manages academic and administrative affairs.|governance|History
+What is the motto of UET Taxila?|Knowledge, Innovation, and Service.|university_motto|History
+What historical landmarks are present on campus?|Some old colonial-era buildings and monuments are preserved as landmarks.|campus_landmarks|History
+What undergraduate programs are offered?|BS in Electrical, Mechanical, Civil, Computer, Software Engineering and more.|program_info|Programs
+Does UET Taxila offer postgraduate programs?|Yes, MS and PhD programs are available in various engineering fields.|program_info|Programs
+Is Computer Science offered?|Yes, BSCS and MSCS programs are available.|program_info|Programs
+Is Software Engineering available?|Yes, both undergraduate and graduate programs.|program_info|Programs
+What departments exist at UET Taxila?|Departments include Electrical, Mechanical, Civil, Computer, Software, Basic Sciences, Humanities.|department_info|Departments
+Are online courses available?|Yes, select courses and MOOCs are available.|course_info|Programs
+Do departments collaborate with industry?|Yes, research projects with industries are ongoing.|industry_collaboration|Development
+What is the student-faculty ratio?|Approximately 15:1 across all departments.|faculty_ratio|Departments
+Are Mechanical Engineering workshops available?|Yes, workshops with machinery and equipment.|workshop_facilities|Departments
+Do departments have student societies?|Yes, each department has technical societies.|student_societies|Campus Life
+What is the eligibility criteria for BS programs?|FSc (Pre-Engineering) with minimum required marks.|admission_criteria|Admission
+Is ECAT mandatory for engineering programs?|Yes, all applicants must pass ECAT.|admission_test|Admission
+Can international students apply?|Yes, international students can apply under separate quota.|international_admission|Admission
+How to apply online?|Applications submitted via official university admission portal.|application_process|Admission
+What documents are required for admission?|CNIC, Intermediate marksheets, passport-size photos, domicile certificate.|admission_documents|Admission
+Are merit-based scholarships considered?|Yes, top students can get merit scholarships.|scholarship_info|Scholarships
+Are scholarships only for top students?|No, scholarships also available based on need and special programs.|scholarship_info|Scholarships
+Do scholarships cover full tuition?|Some cover full tuition, others partial based on merit.|scholarship_coverage|Scholarships
+Does UET Taxila provide hostel facilities?|Yes, separate hostels for boys and girls with limited seats.|hostel_availability|Hostel
+Are hostel rooms shared?|Yes, usually 2-3 students per room.|hostel_rooms|Hostel
+Are hostel fees refundable?|Partial refund according to university policy.|hostel_fees|Hostel
+Is medical facility available on campus?|Yes, a university health center operates for students.|health_services|Campus Life
+Are students allowed vehicles on campus?|Yes, parking permits required.|vehicle_policy|Campus Life
+Are students involved in research?|Yes, research assistantships and lab work included.|research_opportunities|Students
+Is the grading system CGPA based?|Yes, maximum CGPA is 4.0.|grading_system|Students
+What is the minimum attendance required?|Minimum 75% attendance is required for all courses.|attendance_policy|Students
+When are semester exams conducted?|Exams are held at the end of each semester.|exam_schedule|Exams
+Are midterms conducted?|Yes, midterm exams constitute 30-40% of final grade.|exam_structure|Exams
+Is there a re-evaluation process?|Yes, students can apply for rechecking within one week of result.|re_evaluation|Students
+Are final year projects mandatory?|Yes, all undergraduate students must complete final year projects.|project_requirements|Students
+Can students choose project topics?|Yes, with supervisor approval.|project_selection|Students
+Are extracurricular activities available?|Yes, sports, clubs, societies, cultural and technical events.|extracurricular|Campus Life
+Is campus Wi-Fi available?|Yes, Wi-Fi is available across campus for all students.|wifi_access|IT
+Are transport facilities available?|University buses operate on multiple routes connecting nearby cities.|transport_services|Transport
+When is convocation held?|Convocation is usually held every 2 years.|convocation_schedule|Convocation
+Does UET Taxila offer internship opportunities?|Yes, the university facilitates internships through its career development center.|internship_opportunities|Internship
+Are library books available online?|Yes, library provides access to e-books and journals.|library_digital|Library
+Can students borrow physical books?|Yes, library membership required to borrow books.|library_borrowing|Library
+Is career counseling available?|Yes, career guidance and counseling services are provided.|career_services|Campus Life
+Are students allowed to start clubs?|Yes, students can create cultural, technical, or social clubs with approval.|club_creation|Campus Life
+Does UET Taxila host sports events?|Yes, inter-departmental and inter-university events are organized.|sports_events|Sports
+Are alumni active in mentoring students?|Yes, alumni provide mentorship, networking, and internship opportunities.|alumni_mentorship|Alumni
+How are exam results published?|Results are uploaded on official university portal and notice boards.|result_publication|Exams
+Is plagiarism checked for assignments?|Yes, plagiarism software is used for all submissions.|plagiarism_policy|Students
+Can students request course withdrawals?|Yes, during the add/drop period as per policy.|course_withdrawal|Students
+Are summer courses offered?|Yes, limited summer courses available for some programs.|summer_courses|Programs
+Do departments offer research assistantships?|Yes, for MS and PhD students in various research projects.|research_assistantship|Research
+Are student awards given?|Yes, academic and extracurricular awards are given annually.|awards_recognition|Campus Life
+How to contact UET Taxila administration?|Contact via official phone numbers, emails, or visit campus offices.|contact_info|Miscellaneous
+Is there an online portal for students?|Yes, students can access registration, grades, and course info online.|student_portal|IT
+What is the admission fee for undergraduate programs?|Admission processing fee is 2000 PKR for all undergraduate programs.|admission_fees|Admission
+Is there a separate admission quota for foreign students?|Yes, 10% seats are reserved for foreign students.|foreign_quota|Admission
+Are there late admission provisions?|Yes, under special circumstances with approval of admission office.|late_admission|Admission
+What is the selection criteria for BS programs?|Merit-based: ECAT score, FSc marks, and interview for some programs.|selection_criteria|Admission
+Are interviews conducted for MS programs?|Yes, interviews may be conducted for selected MS programs.|ms_interview|Admission
+Can students defer admission?|Yes, deferral allowed with approval before classes start.|admission_deferral|Admission
+Are scholarships available for undergraduate students?|Yes, merit and need-based scholarships are available.|ug_scholarships|Scholarships
+What is the merit scholarship amount?|Merit scholarships cover full or partial tuition based on merit ranking.|scholarship_amount|Scholarships
+Are scholarships renewable every year?|Yes, based on continuous academic performance.|scholarship_renewal|Scholarships
+Can international students avail scholarships?|Yes, international students may apply for specific scholarships.|international_scholarships|Scholarships
+Does UET Taxila provide hostel accommodation?|Yes, separate hostels for boys and girls are available.|hostel_accommodation|Hostel
+How many students are accommodated in each hostel?|Each hostel typically houses 100-200 students.|hostel_capacity|Hostel
+Are hostel rooms single or shared?|Most rooms are shared by 2-3 students; few single rooms available.|room_type|Hostel
+Is hostel admission guaranteed?|No, hostel seats are limited and allocated on merit or first-come basis.|hostel_allocation|Hostel
+Are mess facilities available in hostels?|Yes, separate mess facilities for boys and girls with weekly menus.|mess_facilities|Hostel
+Is Wi-Fi available in hostels?|Yes, Wi-Fi is available in all hostels.|hostel_wifi|IT
+Can students request hostel transfer?|Yes, transfer possible subject to availability.|hostel_transfer|Hostel
+Are campus events organized regularly?|Yes, cultural, technical, and sports events are held throughout the year.|campus_events|Campus Life
+Can students participate in clubs?|Yes, technical, cultural, and sports clubs are open to all students.|club_participation|Campus Life
+Does UET Taxila have a student council?|Yes, student council represents students in decision-making and activities.|student_council|Campus Life
+Are workshops and seminars conducted?|Yes, regular workshops and seminars by faculty and guest speakers.|workshops_seminars|Campus Life
+Is career counseling provided?|Yes, career development center guides students on jobs, internships, and higher studies.|career_counseling|Campus Life
+Are mental health services available?|Yes, counseling and support services are provided.|mental_health|Campus Life
+Are competitions organized for students?|Yes, inter-departmental and inter-university competitions are held.|student_competitions|Campus Life
+Does UET Taxila have sports facilities?|Yes, cricket, football, basketball, volleyball, athletics tracks, and gyms are available.|sports_facilities|Sports
+Are students allowed to organize sports events?|Yes, student clubs can organize tournaments with permission.|student_sports_events|Sports
+Is there an annual sports gala?|Yes, inter-departmental sports week is organized annually.|sports_gala|Sports
+Can students represent UET Taxila in external sports events?|Yes, students can participate in national and international competitions.|external_sports|Sports
+Are research assistantships offered?|Yes, for postgraduate students in various departments.|research_assistantship|Research
+Does UET Taxila have dedicated labs for research?|Yes, labs for Robotics, AI, Civil Engineering, Electrical, and Mechanical departments.|research_labs|Research
+Can undergraduate students participate in research?|Yes, under supervision of faculty members.|ug_research|Research
+Are conferences and seminars held at UET Taxila?|Yes, international and national conferences are organized yearly.|conferences|Research
+Does UET Taxila publish research journals?|Yes, peer-reviewed journals in engineering and technology.|research_journals|Research
+Are alumni networking events organized?|Yes, alumni events for mentoring and professional networking are conducted.|alumni_events|Alumni
+How to contact alumni office?|Via official email or alumni portal on the university website.|alumni_contact|Alumni
+Can alumni contribute to scholarships or donations?|Yes, alumni can donate or sponsor scholarships.|alumni_donations|Alumni
+Are workshops for skill development organized?|Yes, workshops on programming, robotics, civil projects, and entrepreneurship.|skill_workshops|Campus Life
+Are convocation ceremonies conducted annually?|Typically every 2 years, with formal ceremony and degree distribution.|convocation_frequency|Convocation
+Can students attend convocation with family?|Yes, students may invite family members to attend.|convocation_guests|Convocation
+How are final year projects evaluated?|Final year projects are evaluated based on report, presentation, and demonstration.|project_evaluation|Exams
+What is the passing criteria?|Minimum 50% marks in each course for undergraduate programs.|passing_marks|Exams
+Are students allowed to retake failed courses?|Yes, failed courses can be retaken in the next semester.|course_retake|Exams
+Is online examination system available?|Some courses conduct online assessments.|online_exams|Exams
+Are supplementary exams conducted?|Yes, supplementary exams are organized for failed courses.|supplementary_exams|Exams
+What is the library timing?|Library is open from 8:00 AM to 10:00 PM, Monday to Saturday.|library_hours|Library
+Can students access digital resources remotely?|Yes, e-books, journals, and databases accessible via student login.|remote_library_access|Library
+How many books can a student borrow?|Undergraduate students can borrow up to 5 books; postgraduates up to 10 books.|book_borrowing_limit|Library
+Are library memberships mandatory?|Yes, all students must register for library membership.|library_membership|Library
+Is reference section available in library?|Yes, reference books and journals are available for consultation.|library_reference|Library
+Are computer labs available for students?|Yes, labs with latest software and internet access are available.|computer_labs|IT
+Is campus Wi-Fi accessible to all students?|Yes, Wi-Fi is available in all academic and hostel areas.|campus_wifi|IT
+Are online portals available for registration and grades?|Yes, the student portal allows course registration, fee payment, and grades access.|online_portal|IT
+Is technical support available for IT issues?|Yes, IT department provides support for software and hardware issues.|it_support|IT
+Can students use campus printers and scanners?|Yes, printers and scanners are available in labs and library.|printing_services|IT
+Do students require transport passes?|Yes, valid transport pass required for campus bus services.|transport_pass|Transport
+Are parking facilities available on campus?|Yes, limited parking is available with permits.|parking_facilities|Transport
+Can students request special transport arrangements?|Yes, on special occasions with prior approval.|special_transport|Transport
+Is internship mandatory for BS programs?|Yes, internship is part of curriculum in final year.|internship_mandatory|Internship
+Does UET Taxila assist in internship placement?|Yes, career development center coordinates internship opportunities.|internship_placement|Internship
+Are internships paid?|Some internships are paid; others are for experience credit only.|internship_compensation|Internship
+Can students do internships abroad?|Yes, with university approval and international collaborations.|international_internship|Internship
+Are summer training programs offered?|Yes, summer training programs in industry and labs are offered.|summer_training|Internship
+Are student queries handled online?|Yes, queries can be submitted via official portal or email.|online_queries|Miscellaneous
+Is campus safe for students?|Yes, security personnel and CCTV cameras ensure campus safety.|campus_security|Miscellaneous
+Are health services available on campus?|Yes, a health center with doctors and first aid is available.|health_center|Miscellaneous
+Can students report grievances?|Yes, through grievance cell and online portal.|grievance_reporting|Miscellaneous
+Are counseling services available?|Yes, academic and psychological counseling is provided.|counseling_services|Miscellaneous
+Are students allowed to start societies or clubs?|Yes, cultural, technical, and sports clubs permitted with approval.|society_creation|Miscellaneous
+Is alumni mentorship available?|Yes, alumni mentor students in academics, career, and internships.|alumni_mentoring|Miscellaneous
+Are cultural events organized?|Yes, festivals, seminars, and competitions are conducted annually.|cultural_events|Miscellaneous
+Is entrepreneurship support available?|Yes, incubation center and entrepreneurship programs are offered.|entrepreneurship|Miscellaneous
+Are environmental initiatives active on campus?|Yes, tree plantation, recycling, and sustainability programs are conducted.|environmental_initiatives|Miscellaneous
+Are students allowed on rooftops or labs after hours?|No, restricted for safety reasons.|safety_restrictions|Miscellaneous
+Does UET Taxila have international exchange programs?|Yes, collaborations with universities in USA, UK, China, and Germany.|exchange_programs|Miscellaneous
+Can students request transcripts online?|Yes, official transcripts can be requested via portal or admission office.|transcript_request|Miscellaneous
+Are recreational facilities available in hostels?|Yes, common rooms, TV, and indoor games provided.|hostel_recreation|Campus Life
+Are student competitions encouraged?|Yes, technical, cultural, and sports competitions are organized regularly.|competition_encouragement|Campus Life
+Are online workshops conducted?|Yes, workshops on coding, robotics, and research are conducted online.|online_workshops|Campus Life
+Are ethical guidelines enforced for students?|Yes, code of conduct and ethics guidelines are mandatory.|ethics_guidelines|Miscellaneous
+Can students participate in international competitions?|Yes, selected students participate in conferences, sports, and technical events abroad.|international_competitions|Miscellaneous
+Is counseling for career planning available?|Yes, career development office provides workshops, guidance, and mentorship.|career_planning|Campus Life
+Are entrepreneurship programs available?|Yes, incubation center offers mentoring and startup guidance.|entrepreneurship_programs|Miscellaneous
+What is the duration of BS programs?|BS programs are typically 4 years or 8 semesters long.|program_duration|Programs
+What is the duration of MS programs?|MS programs typically take 2 years to complete.|program_duration|Programs
+How long does a PhD program take?|PhD programs usually require 3-5 years depending on research progress.|program_duration|Programs
+Are evening classes available?|Some departments offer evening classes for working professionals.|evening_classes|Programs
+Is distance learning available?|Limited distance learning programs are available for certain courses.|distance_learning|Programs
+Can students take courses from other departments?|Yes, elective courses can be taken from other departments with approval.|cross_department_courses|Programs
+Are minor degree programs offered?|Yes, students can pursue minor degrees in complementary fields.|minor_programs|Programs
+What is the credit hour system?|Each course has assigned credit hours; students must complete required credits for graduation.|credit_system|Programs
+Can students do double majors?|Yes, with approval and if they meet credit requirements for both majors.|double_major|Programs
+Are certification programs available?|Yes, short-term certification programs in specialized areas are offered.|certification_programs|Programs
+What are the admission deadlines?|Admission deadlines are typically in July-August for fall semester.|admission_deadline|Admission
+When does the fall semester start?|Fall semester usually begins in September.|semester_start|Admission
+When does the spring semester start?|Spring semester typically starts in February.|semester_start|Admission
+Is there a minimum ECAT score requirement?|Yes, minimum ECAT score varies by program and is announced each year.|ecat_requirement|Admission
+What is the minimum FSc percentage required?|Typically 60% or higher in FSc Pre-Engineering is required.|fsc_requirement|Admission
+Are entry tests conducted for postgraduate programs?|Yes, GAT General or GAT Subject tests are required for MS/PhD admissions.|postgrad_tests|Admission
+Can students from ICS background apply?|ICS students can apply for Computer Science and Software Engineering programs.|ics_eligibility|Admission
+Is DAE qualification accepted?|Yes, DAE holders can apply for admission with equivalence certificate.|dae_eligibility|Admission
+Are aptitude tests mandatory?|Yes, aptitude or entrance tests are mandatory for most programs.|aptitude_tests|Admission
+Can students apply for multiple programs?|Yes, students can apply for multiple programs by paying separate fees.|multiple_applications|Admission
+What is the fee structure for undergraduate programs?|Fee structure varies by program; typically ranges from 40,000 to 70,000 PKR per semester.|fee_structure|Fees
+Are there any additional charges?|Yes, lab fees, library fees, and other charges apply depending on program.|additional_fees|Fees
+Can fees be paid in installments?|Yes, fee installment facility is available with proper documentation.|fee_installments|Fees
+Are fee concessions available?|Yes, need-based fee concessions can be applied for through financial aid office.|fee_concessions|Fees
+What is the hostel fee?|Hostel fees range from 15,000 to 25,000 PKR per semester.|hostel_fee|Fees
+Is mess fee included in hostel fee?|No, mess fee is separate and approximately 8,000-12,000 PKR per month.|mess_fee|Fees
+Are there any hidden charges?|No, all fees and charges are transparently communicated at admission time.|fee_transparency|Fees
+Can international students pay fees in foreign currency?|Yes, international students can pay in US dollars or equivalent currency.|foreign_currency_payment|Fees
+What is the refund policy?|Refund policy allows partial refunds if withdrawal is before specified deadline.|refund_policy|Fees
+Are online fee payment options available?|Yes, fees can be paid online through bank portals and university portal.|online_payment|Fees
+What types of scholarships are available?|Merit-based, need-based, sports scholarships, and donor-funded scholarships are available.|scholarship_types|Scholarships
+Who is eligible for need-based scholarships?|Students from low-income families with proper documentation can apply.|need_based_eligibility|Scholarships
+Are HEC scholarships available?|Yes, students can apply for HEC-funded scholarships for undergraduate and graduate programs.|hec_scholarships|Scholarships
+What is the application process for scholarships?|Students must fill scholarship application forms and submit required documents.|scholarship_application|Scholarships
+When are scholarship applications accepted?|Scholarship applications are typically accepted at the start of each semester.|scholarship_timing|Scholarships
+Can scholarship recipients lose their scholarships?|Yes, if academic performance drops below required CGPA or misconduct occurs.|scholarship_termination|Scholarships
+Are scholarships available for PhD students?|Yes, research scholarships and stipends are available for PhD candidates.|phd_scholarships|Scholarships
+Do scholarships cover living expenses?|Some scholarships include stipends for living expenses, others cover only tuition.|scholarship_coverage|Scholarships
+Can students apply for external scholarships?|Yes, students are encouraged to apply for external and government scholarships.|external_scholarships|Scholarships
+Are sports scholarships performance-based?|Yes, students with exceptional sports achievements can receive sports scholarships.|sports_scholarships|Scholarships
+What facilities are available in boys hostel?|Wi-Fi, mess, common room, study areas, gym, laundry, and security.|boys_hostel_facilities|Hostel
+What facilities are available in girls hostel?|Wi-Fi, mess, common room, study areas, laundry, security, and recreational facilities.|girls_hostel_facilities|Hostel
+Are hostel rooms air-conditioned?|Some rooms have air-conditioning; others have fans and ventilation.|hostel_ac|Hostel
+Is there a hostel curfew?|Yes, hostel gates close at specified times for security reasons.|hostel_curfew|Hostel
+Can students have visitors in hostels?|Visitors allowed in designated areas during specified hours only.|hostel_visitors|Hostel
+Are hostel wardens available?|Yes, each hostel has wardens and support staff for student assistance.|hostel_wardens|Hostel
+Is electricity backup available in hostels?|Yes, generators provide backup during power outages.|hostel_electricity|Hostel
+Can students cook in hostels?|Cooking is not allowed in rooms but small pantry areas may be available.|hostel_cooking|Hostel
+Are hostel fees different for different blocks?|Yes, fees may vary slightly based on room type and facilities.|hostel_fee_variation|Hostel
+How is hostel security maintained?|24/7 security guards, CCTV surveillance, and entry/exit monitoring systems.|hostel_security|Hostel
+What is the library collection size?|Library has over 50,000 books, journals, and digital resources.|library_collection|Library
+Are research journals available?|Yes, both print and online research journals in engineering and sciences.|research_journals_library|Library
+Can students reserve books online?|Yes, online book reservation system is available through library portal.|book_reservation|Library
+Is there a penalty for late book returns?|Yes, late return fees are charged per day for overdue books.|late_return_penalty|Library
+Are study rooms available in library?|Yes, individual and group study rooms can be reserved.|study_rooms|Library
+Is there a librarian for assistance?|Yes, professional librarians are available to help students.|librarian_assistance|Library
+Are previous year papers available in library?|Yes, past papers and sample papers are available for reference.|past_papers|Library
+Can students access international journals?|Yes, through digital library subscriptions and HEC digital library.|international_journals|Library
+Is photocopying facility available?|Yes, photocopying and printing services available at nominal charges.|photocopying|Library
+Are newspapers and magazines available?|Yes, daily newspapers and engineering magazines are available.|newspapers_magazines|Library
+What labs are available for Electrical Engineering?|Power systems, electronics, control systems, telecommunications, and microprocessor labs.|ee_labs|Departments
+What labs are available for Mechanical Engineering?|Thermodynamics, fluid mechanics, manufacturing, CAD/CAM, and material testing labs.|me_labs|Departments
+What labs are available for Civil Engineering?|Concrete testing, surveying, structural analysis, soil mechanics, and highway engineering labs.|ce_labs|Departments
+What labs are available for Computer Science?|Programming, networking, database, artificial intelligence, and software engineering labs.|cs_labs|Departments
+What labs are available for Software Engineering?|Software development, web technologies, mobile app development, and testing labs.|se_labs|Departments
+Are labs equipped with modern tools?|Yes, labs have latest equipment and software for practical learning.|lab_equipment|Departments
+Can students access labs outside class hours?|Yes, with permission from lab supervisors and during specified hours.|lab_access_hours|Departments
+Are safety protocols followed in labs?|Yes, strict safety guidelines and equipment usage rules are enforced.|lab_safety|Departments
+Do labs have technical staff?|Yes, each lab has dedicated technical staff and lab engineers.|lab_staff|Departments
+Are lab reports mandatory?|Yes, students must submit lab reports for all practical courses.|lab_reports|Departments
+What research areas are popular at UET Taxila?|AI, Machine Learning, Robotics, Renewable Energy, Structural Engineering, and IoT.|research_areas|Research
+Can students publish research papers?|Yes, students are encouraged to publish in conferences and journals.|research_publication|Research
+Are research grants available?|Yes, internal and external research grants available for faculty and students.|research_grants|Research
+Does UET Taxila have a research office?|Yes, Directorate of Research coordinates all research activities.|research_office|Research
+Are interdisciplinary research projects allowed?|Yes, collaboration across departments is encouraged for research.|interdisciplinary_research|Research
+Can undergraduate students get research funding?|Limited funding available through final year project grants.|ug_research_funding|Research
+Are research ethics followed?|Yes, research ethics committee ensures compliance with ethical standards.|research_ethics|Research
+Does UET Taxila organize research competitions?|Yes, annual research exhibitions and competitions are held.|research_competitions|Research
+Can students collaborate with industry for research?|Yes, industry-academia linkages facilitate collaborative research.|industry_research|Research
+Are international research collaborations active?|Yes, faculty and students collaborate with international universities.|international_research|Research
+What sports facilities are available?|Cricket ground, football field, basketball court, volleyball court, gym, and athletics track.|sports_facilities_list|Sports
+Can students join sports teams?|Yes, trials are held at the beginning of each academic year.|sports_team_joining|Sports
+Are sports coaches available?|Yes, qualified coaches for cricket, football, and other sports.|sports_coaches|Sports
+Is gym membership free for students?|Yes, gym facilities are free for registered students.|gym_membership|Sports
+Are sports uniforms provided?|Yes, university provides uniforms for official team members.|sports_uniforms|Sports
+Can students participate in provincial tournaments?|Yes, selected players represent UET in provincial and national events.|provincial_sports|Sports
+Is there a sports society?|Yes, sports society organizes events and manages sports activities.|sports_society|Sports
+Are indoor sports facilities available?|Yes, badminton, table tennis, and chess facilities are available.|indoor_sports|Sports
+Is there a swimming pool?|Currently no swimming pool; plans for future development exist.|swimming_pool|Sports
+Are sports scholarships merit-based?|Yes, based on performance in trials and previous achievements.|sports_scholarship_merit|Sports
+What technical societies are active?|IEEE, ACM, ASME, ASCE, robotics club, and coding society.|technical_societies|Campus Life
+How to join a technical society?|Attend society orientations and register through society coordinators.|society_joining|Campus Life
+Do societies organize events?|Yes, workshops, competitions, seminars, and technical exhibitions.|society_events|Campus Life
+Are there cultural societies?|Yes, drama, music, literary, and debating societies are active.|cultural_societies|Campus Life
+Is there a photography club?|Yes, photography and videography club for creative students.|photography_club|Campus Life
+Can students organize their own events?|Yes, with approval from student affairs and faculty advisors.|student_organized_events|Campus Life
+Are there leadership opportunities in societies?|Yes, students can become office bearers and executive members.|society_leadership|Campus Life
+Do societies receive funding?|Yes, societies get annual budgets from student affairs office.|society_funding|Campus Life
+Are international students welcome in societies?|Yes, all students regardless of nationality can join.|international_society_membership|Campus Life
+Do societies organize trips?|Yes, educational and recreational trips are organized periodically.|society_trips|Campus Life
+How often are convocations held?|Typically every two years for degree conferment ceremonies.|convocation_frequency|Convocation
+Is attendance mandatory at convocation?|No, but highly recommended for degree recipients.|convocation_attendance|Convocation
+Can graduates attend future convocations?|Yes, if they missed their scheduled ceremony.|future_convocation|Convocation
+Are convocation gowns provided?|Yes, graduates wear traditional academic regalia provided by university.|convocation_gowns|Convocation
+Can family attend convocation?|Yes, limited guest passes are issued to graduates for family.|convocation_family|Convocation
+Who presides over convocation?|The Chancellor or their nominee presides over the ceremony.|convocation_presiding|Convocation
+Are medals awarded at convocation?|Yes, gold and silver medals for top performers in each program.|convocation_medals|Convocation
+Is there a convocation fee?|Minimal fee may be charged for convocation regalia and arrangements.|convocation_fee|Convocation
+Can students get photographs at convocation?|Yes, official photography services are available.|convocation_photos|Convocation
+Are degrees distributed immediately?|Yes, degrees are conferred during the convocation ceremony.|degree_distribution|Convocation
+How do students contact their advisors?|Through email, during office hours, or by appointment.|advisor_contact|Students
+Is academic advising mandatory?|Yes, students must consult advisors before course registration.|advising_mandatory|Students
+Can students change their advisor?|Yes, with valid reasons and approval from department head.|advisor_change|Students
+Do advisors help with career planning?|Yes, advisors provide guidance on academic and career paths.|advisor_career_help|Students
+How many courses can a student register per semester?|Typically 5-7 courses depending on credit hours and program requirements.|course_registration_limit|Students
+Can students drop courses?|Yes, during add/drop period without academic penalty.|course_drop|Students
+What is academic probation?|Students with CGPA below 2.0 are placed on academic probation.|academic_probation|Students
+Can students on probation continue studies?|Yes, but must improve performance in next semester or face consequences.|probation_continuation|Students
+Is there a maximum duration to complete degree?|Yes, typically 6-7 years for 4-year undergraduate programs.|degree_completion_limit|Students
+Can students freeze their semester?|Yes, with valid medical or personal reasons and proper documentation.|semester_freeze|Students
+What is the exam pattern?|Combination of MCQs, short questions, long questions, and practical exams.|exam_pattern|Exams
+Are open book exams conducted?|Some advanced courses may allow open book or take-home exams.|open_book_exams|Exams
+Can students see their answer sheets?|Yes, students can request to view answer sheets for transparency.|answer_sheet_viewing|Exams
+What happens if a student misses an exam?|Makeup exams may be allowed with valid excuse and medical certificate.|missed_exam|Exams
+Are practical exams conducted separately?|Yes, lab courses have separate practical examinations.|practical_exams|Exams
+How is final grade calculated?|Combination of assignments, quizzes, midterm, final exam, and participation.|grade_calculation|Exams
