@@ -773,7 +773,6 @@ def get_answer(q):
         return "❌ Sorry, I don't have an answer for that specific question. Please try rephrasing or ask about admissions, programs, scholarships, hostels, or fee structure."
     
     return answers[best]
-
 # ----------------------------- SIDEBAR -----------------------------
 st.sidebar.markdown("<h2 style='text-align: center; margin-bottom: 20px; color: #ffffff;'>FAQ Categories</h2>", unsafe_allow_html=True)
 
@@ -784,11 +783,20 @@ st.sidebar.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
+# When category changes, reset sidebar index to 0
+if "prev_category" not in st.session_state:
+    st.session_state.prev_category = "All"
+
 selected_cat = st.sidebar.selectbox(
     "",
     unique_cats,
     key="category_select"
 )
+
+# Reset index when category changes
+if st.session_state.prev_category != selected_cat:
+    st.session_state.sidebar_idx = 0
+    st.session_state.prev_category = selected_cat
 
 if selected_cat == "All":
     cat_ids = list(range(len(questions)))
@@ -801,24 +809,28 @@ visible_q = cat_ids[start:end]
 
 st.sidebar.markdown("<h3 style='margin: 20px 0 10px 0; color: #ffffff;'>💡 Sample Questions</h3>", unsafe_allow_html=True)
 
-for i in visible_q:
-    if st.sidebar.button(f"❓ {questions[i][:45]}...", key=f"sidebar_q_{i}"):
-        st.session_state.user_q = questions[i]
-        st.rerun()
+if len(visible_q) == 0:
+    st.sidebar.markdown("<p style='color: #ffcccc;'>No questions available for this category.</p>", unsafe_allow_html=True)
+else:
+    for i in visible_q:
+        if st.sidebar.button(f"❓ {questions[i][:45]}...", key=f"sidebar_q_{i}"):
+            st.session_state.user_q = questions[i]
+            st.rerun()
 
 # Navigation buttons
-col1, col2 = st.sidebar.columns(2)
-with col1:
-    if start > 0:
-        if st.button("⬅️ Prev", key="prev_btn"):
-            st.session_state.sidebar_idx = max(0, start - 5)
-            st.rerun()
+if len(cat_ids) > 5:
+    col1, col2 = st.sidebar.columns(2)
+    with col1:
+        if start > 0:
+            if st.button("⬅️ Prev", key="prev_btn"):
+                st.session_state.sidebar_idx = max(0, start - 5)
+                st.rerun()
 
-with col2:
-    if end < len(cat_ids):
-        if st.button("Next ➡️", key="next_btn"):
-            st.session_state.sidebar_idx = start + 5
-            st.rerun()
+    with col2:
+        if end < len(cat_ids):
+            if st.button("Next ➡️", key="next_btn"):
+                st.session_state.sidebar_idx = start + 5
+                st.rerun()
 
 st.sidebar.markdown("<div style='margin: 20px 0; border-top: 2px solid rgba(255,255,255,0.3);'></div>", unsafe_allow_html=True)
 
@@ -827,7 +839,6 @@ if st.sidebar.button("🗑️ Clear Chat", key="clear_btn"):
     st.session_state.latest_answer = None
     st.session_state.history_count = 10
     st.rerun()
-
 # ----------------------------- INFO BANNER -----------------------------
 st.markdown("""
 <div class='info-banner'>
